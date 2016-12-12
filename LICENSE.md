@@ -2,8 +2,9 @@ lIcence for free
 
 maybe something
 
-<<<<<<< HEAD
+this is second 
 
+<<<<<<< HEAD
 
 this is from computer
 
